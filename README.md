@@ -1,5 +1,3 @@
-!["Screenshot of desktop viewport"](https://github.com/soupIsTheCurrencyOfTheFuture/soupIsTheCurrencyOfTheFuture/blob/main/Mandelbrot_sequence_new.gif)
-
 <!--
 **soupIsTheCurrencyOfTheFuture/soupIsTheCurrencyOfTheFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
