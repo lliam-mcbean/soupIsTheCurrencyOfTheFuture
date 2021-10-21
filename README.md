@@ -1,5 +1,5 @@
 
-!["Screenshot of desktop viewport"](https://github.com/soupIsTheCurrencyOfTheFuture/tweeter/blob/main/public/docs/Screen%20Shot%202021-08-11%20at%205.28.11%20PM.png)
+!["Screenshot of desktop viewport"](https://github.com/soupIsTheCurrencyOfTheFuture/soupIsTheCurrencyOfTheFuture/blob/main/mandelbrotzoom.gif)
 
 <!--
 **soupIsTheCurrencyOfTheFuture/soupIsTheCurrencyOfTheFuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
