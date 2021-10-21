@@ -1,6 +1,6 @@
 
 !["Screenshot of desktop viewport"](https://github.com/soupIsTheCurrencyOfTheFuture/soupIsTheCurrencyOfTheFuture/blob/main/somethingelse.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soupisthecurrencyofthefuture&langs_count=10&hide=html,coffeescript,SCSS,shell,typescript&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lliammcbean&layout=compact&theme=github_dark&show_icons=true&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soupisthecurrencyofthefuture&langs_count=10&hide=html,coffeescript,SCSS,shell,typescript&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lliammcbean&layout=compact&theme=github_dark&show_icons=true&hide_border=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
