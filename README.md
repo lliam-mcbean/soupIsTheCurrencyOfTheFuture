@@ -1,7 +1,7 @@
 
 !["Screenshot of desktop viewport"](https://github.com/soupIsTheCurrencyOfTheFuture/soupIsTheCurrencyOfTheFuture/blob/main/mandelbrot.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soupisthecurrencyofthefuture&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soupisthecurrencyofthefuture&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
