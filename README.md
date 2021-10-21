@@ -1,9 +1,7 @@
 
 !["Screenshot of desktop viewport"](https://github.com/soupIsTheCurrencyOfTheFuture/soupIsTheCurrencyOfTheFuture/blob/main/mandelbrot.png)
-
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soupisthecurrencyofthefuture&langs_count=10&hide=html,coffeescript,SCSS,shell,typescript&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 <!--
